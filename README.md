@@ -4,9 +4,9 @@ A cool OS in a Browser, Using a Javascript bookmarklet.
 ## This is still in development. follow or star to get updates.
 
 ### Roadmap:
-- Make the UI: ``in progress``
-- Create accounts and settings: ``up next``
-- Create The proxy browser: ``will do``
+- Make the UI: ``will do``
+- Create accounts and settings: ``in progress``
+- Create The proxy browser: ``up next``
 - setup HTML5 games: ``will do``
 - setup news: ``i don't know``
 - release public beta 0.7: ``nice``
