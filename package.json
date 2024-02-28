@@ -1,0 +1,24 @@
+{
+  "name": "injectorbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "unbuild": "rm -rf node_modules || rd /s /q node_modules && rm package-lock.json || echo '--------------.Done.-----------------'",
+    "build": "npm run unbuild && npm install"
+  },
+  "keywords": [],
+  "author": "paragram",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "encoding": "^0.1.13",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7",
+    "ping": "^0.4.2",
+    "replit-client": "^0.25.0",
+    "request": "^2.88.2",
+    "rimraf": "^3.0.2",
+    "server": "^1.0.38"
+  }
+}
